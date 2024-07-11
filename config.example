@@ -1,0 +1,18 @@
+api:
+  url: "celestia-lcd/cosmos/gov/v1beta1/proposals"
+
+explorer:
+  url: "https://www.mintscan.io/celestia-testnet/proposals/"
+
+redis:
+  addr: "localhost:6379"
+  password: "password"
+  db_index: 1
+
+telegram:
+  bot_token: "telegram bot token"
+  chat_id: -100
+
+ticker:
+  interval: 1m
+
